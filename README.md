@@ -3,8 +3,6 @@
 <!--
 **aimundo/aimundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-My name is Ariel Mundo, I am a Graduate Research Assistant in the Department of Biomedical Engineering at the University of Arkansas, Fayetteville. I enjoy using R for data 
-visualization and Statistical Analyses. 
 
 Account age: **{{ ACCOUNT_AGE }}** years
 
